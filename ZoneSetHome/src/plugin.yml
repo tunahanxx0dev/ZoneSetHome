@@ -1,0 +1,10 @@
+name: ZoneSetHome
+main: dev.tunahanxx.ZoneSetHome
+api-version: 1.19
+version: 1.0.0
+author: TunahanXXDev
+description: The Zone Set Home Plugin
+
+commands:
+   zs:
+   home:
